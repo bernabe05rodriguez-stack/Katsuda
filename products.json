@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Grifería Lavatorio Monocomando Pico Alto RG",
+    "category": "Grifería",
+    "price": 68434,
+    "image": "https://via.placeholder.com/300x300?text=Griferia+Lavatorio",
+    "description": "Grifería para lavatorio monocomando de diseño moderno."
+  },
+  {
+    "id": 2,
+    "name": "Grifería Cocina Monocomando Peirano Move",
+    "category": "Grifería",
+    "price": 71330,
+    "image": "https://via.placeholder.com/300x300?text=Griferia+Cocina",
+    "description": "Monocomando para mesada de cocina, acabado cromado."
+  },
+  {
+    "id": 3,
+    "name": "Grifería Ducha Embutir Berlin Black",
+    "category": "Grifería",
+    "price": 170859,
+    "image": "https://via.placeholder.com/300x300?text=Griferia+Ducha",
+    "description": "Grifería de ducha color negro mate, diseño elegante."
+  },
+  {
+    "id": 4,
+    "name": "Inodoro Largo Bari Ferrum",
+    "category": "Sanitarios",
+    "price": 150000,
+    "image": "https://via.placeholder.com/300x300?text=Inodoro+Bari",
+    "description": "Inodoro largo de porcelana sanitaria blanca."
+  },
+  {
+    "id": 5,
+    "name": "Bidet Bari Ferrum 3 Agujeros",
+    "category": "Sanitarios",
+    "price": 100000,
+    "image": "https://via.placeholder.com/300x300?text=Bidet+Bari",
+    "description": "Bidet de 3 agujeros, línea Bari."
+  },
+  {
+    "id": 6,
+    "name": "Lavatorio Mesada Alto Grafito Piazza",
+    "category": "Sanitarios",
+    "price": 158189,
+    "image": "https://via.placeholder.com/300x300?text=Lavatorio+Piazza",
+    "description": "Lavatorio de apoyo color grafito."
+  },
+  {
+    "id": 7,
+    "name": "Aire Acondicionado Inverter 2200 F/C Neba",
+    "category": "Climatización",
+    "price": 756788,
+    "image": "https://via.placeholder.com/300x300?text=Aire+Inverter",
+    "description": "Aire acondicionado split tecnología inverter."
+  },
+  {
+    "id": 8,
+    "name": "Calefactor Tiro Balanceado 3000 Kcal",
+    "category": "Climatización",
+    "price": 200000,
+    "image": "https://via.placeholder.com/300x300?text=Calefactor",
+    "description": "Calefactor a gas tiro balanceado."
+  },
+  {
+    "id": 9,
+    "name": "Ventilador de Pie Liliana 20''",
+    "category": "Climatización",
+    "price": 119793,
+    "image": "https://via.placeholder.com/300x300?text=Ventilador+Pie",
+    "description": "Ventilador de pie digital oscilante."
+  },
+  {
+    "id": 10,
+    "name": "Porcelanato 82x82 Portland Greige",
+    "category": "Construcción",
+    "price": 22122,
+    "image": "https://via.placeholder.com/300x300?text=Porcelanato",
+    "description": "Porcelanato rectificado de primera calidad. Precio por m2."
+  },
+  {
+    "id": 11,
+    "name": "Cerámica 38x38 Recife Tiza",
+    "category": "Construcción",
+    "price": 11695,
+    "image": "https://via.placeholder.com/300x300?text=Ceramica",
+    "description": "Cerámica para pisos y revestimientos. Precio por m2."
+  },
+  {
+    "id": 12,
+    "name": "Martillo Demoledor Total 1500W",
+    "category": "Construcción",
+    "price": 749837,
+    "image": "https://via.placeholder.com/300x300?text=Martillo+Demoledor",
+    "description": "Herramienta profesional para demolición."
+  }
+]
